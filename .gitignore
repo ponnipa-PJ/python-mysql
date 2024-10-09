@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+*.csv
+*.h5
+*.sqlite3
+*.pkl
+*.log
+*.DS_Store
+*myenv
